@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
+.text-color{
+    color:blueviolet;
+}
+.top-part{
+    display: flex;
+    
+}
+.top-part img{
+    width: 100%;
+}
+.half-width{
+    width: 50%;
+    padding: 15px 30px;
+}
+.half-width a{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color:salmon;
+    border-radius: 50px;
+   
+}
