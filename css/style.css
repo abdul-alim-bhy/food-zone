@@ -34,7 +34,8 @@ h2{
    
 }
 .about-section{
-   background-image: url();
+    background-image: url(../images/shapes/bg-1.png);
+    background-repeat: no-repeat;
 }
 .personal-info{
     
